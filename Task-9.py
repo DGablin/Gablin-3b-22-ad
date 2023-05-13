@@ -7,7 +7,6 @@ class Rectangle:
         print(self.length * self.width)
 
 
-
 rectangle1 = Rectangle(5, 6)
 print(rectangle1.length, rectangle1.width)
 rectangle1.square()
